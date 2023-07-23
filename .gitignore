@@ -1,0 +1,77 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/vendor/
+/bower_components/
+
+# Output directories
+/dist/
+/build/
+/out/
+
+# IDEs and Editors
+/.vscode
+/.idea
+*.sublime-*
+*.swp
+
+# Logs and debugging
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.cache/
+*.bak
+*.tmp
+*.backup
+*.csv
+
+# Jest coverage
+/coverage/
+
+# Build files
+*.rptproj
+*.sln
+*.vcxproj
+*.user
+*.suo
+*.projdata
+*.cache
+*.pnp
+*.log
+*.tlog
+*.zip
+*.gz
+*.tgz
+*.rar
+*.7z
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.node
+*.json.patch
+*.ico
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
